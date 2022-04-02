@@ -1,9 +1,10 @@
 # CrackHeads
 
-![Test Image 7](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/medical_marijuana_other/650x350_medical_marijuana_other.jpg?resize=*:350px&output-quality=75)
+![Test Image 7](https://cdn-prod.medicalnewstoday.com/content/images/articles/324/324948/marijuana-effects-on-the-body-joint.jpg)
 
-For a long time there has been several misconceptions around the use of marijuana many people have tend to believe that it is not a healthy substance but recent medical researches has proven that Medical marijuana is helpful in treating some major medical crisis.
+The global legal marijuana market size was valued at USD 9.1 billion in 2020 and is expected to expand at a compound annual growth rate (CAGR) of 26.7% from 2021 to 2028. One of the major factors fueling the market growth is the expanding demand for legal marijuana owing to the growing number of legal cannabis countries.
 
+Owing to the recent legalizations in different countries, the use of medical marijuana for various aliments is gaining momentum worldwide. Patients suffering from chronic illnesses, such as Parkinson's, cancer, Alzheimer's, and many neurological disorders, are administered medical marijuana. The demand for cannabis oil is increasing rapidly, especially among countries with legalized medical marijuana. Recent novel food ruling in Europe will further strengthen the growth of CBD isolates in the coming years. Moreover, the children consuming cannabis are being prescribed with oil only as it has shown tremendous benefits for the treatment of disorders, like epilepsy.
 ### What actually is medical marijuana?
 Medical marijuana uses the marijuana plant or chemicals in it to treat diseases or conditions. It's basically the same product as recreational marijuana, but it's taken for medical purposes.
 
