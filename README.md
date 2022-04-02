@@ -21,7 +21,7 @@ Cannabinoids -- the active chemicals in medical marijuana -- are similar to chem
 
 
 ## Medcan DAO 
-Medcan DAO is a platform with the aim ofchampioning research on how marijuana can be used to save lives and educating people on the benefits of marijuana, and how it can be properly administered to cure disease. To access this organisation users will have to be holders of the Crackhead NFT.
+Medcan DAO is a platform with the aim of championing research on how marijuana can be used to save lives and educating people on the benefits of marijuana, and how it can be properly administered to cure disease. To access this organisation users will have to be holders of the Crackhead NFT.
 
 When users stake the crackhead NFT they receive the governance token of MedcanDao which gives them voting rights in the ado and gives them access to be active contributors in the space.
 
