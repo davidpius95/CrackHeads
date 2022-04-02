@@ -20,18 +20,8 @@ Stimulate appetite and improve weight gain in people with cancer and AIDS.
 Cannabinoids -- the active chemicals in medical marijuana -- are similar to chemicals the body makes that are involved in appetite, memory, movement, and pain.
 
 
-### Can medical marijuana help with seizure disorders?
-Medical marijuana received a lot of attention a few years ago when parents said that a special form of the drug helped control seizures in their children. The FDA recently approved Epidiolex, which is made from CBD, as a therapy for people with very severe or hard-to-treat seizures. In studies, some people had a dramatic drop in seizures after taking this drug.
-
-Researchers are studying whether medical marijuana can help treat a number of conditions including:
-Alzheimer's disease, Appetite loss,Cancer,Crohn's disease
-Diseases affecting the immune system like HIV/AIDS or Multiple Sclerosis (MS).
-
-Mental health conditions like schizophrenia and posttraumatic stress disorder (PTSD),Multiple sclerosis,Muscle spasms,Nausea,Pain,Seizures,Wasting syndrome (cachexia)
-But it’s not yet proven to help many of these conditions, with a few exceptions, Bonn-Miller says.
-
 ## Medcan DAO 
-Medcan DAO is a platform with health professionals licensed by the government and  with the aim  of educating people on the benefits of marijuana, and championing research on how this substance can be used to save human lives. To access this organisation users will have to be holders of the Crackhead NFT.
+Medcan DAO is a platform with the aim ofchampioning research on how marijuana can be used to save lives and educating people on the benefits of marijuana, and how it can be properly administered to cure disease. To access this organisation users will have to be holders of the Crackhead NFT.
 
 When users stake the crackhead NFT they receive the governance token of MedcanDao which gives them voting rights in the ado and gives them access to be active contributors in the space.
 
