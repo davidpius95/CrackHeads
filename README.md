@@ -1,6 +1,6 @@
 # CrackHeads
 
-![Test Image 7](https://cdn-prod.medicalnewstoday.com/content/images/articles/324/324948/marijuana-effects-on-the-body-joint.jpg)
+![Test Image 7](https://thumbnails.texastribune.org/W3M-kvr8D10NXUXVtqOV_GGQYHg=/1550x1038/smart/filters:format(webp):quality(75)/https://static.texastribune.org/media/files/d93634da629c5e37e904499803cbd2cf/Medical%20Marijuana%20JV%20TT%2001.jpg)
 
 The global legal marijuana market size was valued at USD 9.1 billion in 2020 and is expected to expand at a compound annual growth rate (CAGR) of 26.7% from 2021 to 2028. One of the major factors fueling the market growth is the expanding demand for legal marijuana owing to the growing number of legal cannabis countries.
 
