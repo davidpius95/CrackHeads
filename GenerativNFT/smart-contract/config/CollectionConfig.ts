@@ -23,10 +23,10 @@ const CollectionConfig: CollectionConfigInterface = {
     maxMintAmountPerTx: 2,
   },
   publicSale: {
-    price: 0.09,
+    price: 0.001,
     maxMintAmountPerTx: 10,
   },
-  contractAddress: '0x8B61f42a99A6204dDc2Eda240d0e8F543662cDC6',
+  contractAddress: "0x8B61f42a99A6204dDc2Eda240d0e8F543662cDC6",
   marketplaceIdentifier: 'CrackHeads',
   marketplaceConfig: Marketplaces.openSea,
   whitelistAddresses: whitelistAddresses,
